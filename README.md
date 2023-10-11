@@ -1,4 +1,4 @@
-### DevOps Practice** - _Task 1_
+### DevOps Practice - _Task 1_
 
 >Create a Python script to sort a list of numbers you pass to it using an environment variable. Implement two sorting algorithms of your choice as two different functions.
 
